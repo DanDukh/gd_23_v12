@@ -1,0 +1,11 @@
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Учеба\Фриланс\ГД Духнич\Fibonacci\obj\Debug\Fibonacci.pdb
